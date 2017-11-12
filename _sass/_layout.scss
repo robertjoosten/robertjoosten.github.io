@@ -195,7 +195,7 @@ clear: both;
 }
 .project {
 width: 33.33%;
-height: 275px;
+height: auto;
 float: left;
 vertical-align: middle;
 box-sizing: border-box;
@@ -203,7 +203,7 @@ padding: 10px;
 }
 .thumbnail{
 width: 100%;
-height: 230px;
+height: auto;
 overflow: hidden;
 }
 .thumbnail img{
@@ -213,7 +213,7 @@ position: relative;
 float: left;
 position: relative;
 width: 100%;
-height: 230px;
+height: auto;
 }
 .thumbnail a span {
 display: none;
