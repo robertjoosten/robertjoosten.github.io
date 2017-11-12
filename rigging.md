@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rigging
-permalink: /rigging
+permalink: /rigging/
 order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R&D
-permalink: /rnd
+permalink: /rnd/
 order: 9
 ---
 

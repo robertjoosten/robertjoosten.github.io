@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modelling
-permalink: /modelling
+permalink: /modelling/
 order: 2
 ---
 

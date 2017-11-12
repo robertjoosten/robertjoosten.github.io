@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Commercials
-permalink: /commercials
+permalink: /commercials/
 order: 4
 ---
 

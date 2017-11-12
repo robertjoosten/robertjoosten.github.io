@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorials
-permalink: /tutorials
+permalink: /tutorials/
 order: 10
 ---
 
