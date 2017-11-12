@@ -1,0 +1,19 @@
+# Site settings
+title: td
+email: rwm.joosten@gmail.com
+description: > 
+  Robert Joosten : Rigging, Pipeline and Supervision
+baseurl: 
+url: technicaldirector.nl
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+    
+exclude: [serve.sh, build.sh, Gemfile, Gemfile.lock]
