@@ -8,7 +8,7 @@ order: 3
 {% assign sorted_projects = site.projects | sort: "date" %}
 {% assign reversed_projects = sorted_projects | reverse %}
 {% for project in reversed_projects %}
-{% if project.categories contains "rigging" %}
+{% if project.category contains "rigging" %}
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">

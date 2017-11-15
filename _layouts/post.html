@@ -14,6 +14,7 @@ layout: default
         </p>
         <h1 class="post-title">{{ page.title }}</h1>
         <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        
     </div> 
   
     
@@ -22,5 +23,12 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  <hr>
+  <br>
+  <p>
+    {% assign sorted_tags = page.tag | sort %}
+    {% for tag in sorted_tags %}
+    <a class="post-tag" href="{{ site.baseurl }}/tags#{{ tag }}">{{ tag | upcase }}</a>
+    {% endfor %}
+  </p>
 </div>

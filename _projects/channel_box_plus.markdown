@@ -4,7 +4,8 @@ title: Maya - Channel Box Plus
 description: Channel Box Plus will add search-ability over its attributes and it will colour user defined attributes.
 img: /img/tools/channel_box_plus_thumbnail.png
 date: 2016-08-13 18:00:00
-categories: tools
+category: tools
+tag: [tool, python, maya, pyside, colour, channelbox]
 github: https://github.com/robertjoosten/rjChannelBoxPlus
 github-docs: https://robertjoosten.github.io/rjChannelBoxPlus/
 gumroad: https://gum.co/rjChannelBoxPlus

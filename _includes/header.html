@@ -7,7 +7,9 @@
       <div class="trigger">
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for page in sorted_pages %}
+          {% unless page.no-menu %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | downcase }}</a>
+          {% endunless %}
         {% endfor %}
 
       </div>

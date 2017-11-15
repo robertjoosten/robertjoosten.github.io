@@ -4,7 +4,8 @@ title: Maya - Mesh Info
 description: This plug-in will register a node and a command. With the command it will be possible to query the volume of a mesh and with the node you can query not only the volume but also the surface area of all the faces.
 img: /img/tools/mesh_info_thumbnail.png
 date: 2015-11-30 18:00:00
-categories: tools
+category: tools
+tag: [tool, python, maya, maya api, custom node, custom command, mesh, volume, surface area]
 github: https://github.com/robertjoosten/rjMeshInfo
 github-docs:
 gumroad: https://gum.co/rjMeshInfo

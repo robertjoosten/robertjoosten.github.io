@@ -4,7 +4,8 @@ title: Maya - Reorder Attributes
 description: Reorder attributes in Maya, drag and drop the attributes into the desired order. Only user defined attributes can be reordered.
 img: /img/tools/reorder_attributes_thumbnail.png
 date: 2017-03-28 16:14:00
-categories: tools
+category: tools
+tag: [tool, python, maya, pyside, reorder, attributes]
 github: https://github.com/robertjoosten/rjReorderAttr
 github-docs: https://robertjoosten.github.io/rjReorderAttr/
 gumroad: https://gum.co/rjReorderAttr

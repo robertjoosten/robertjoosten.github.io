@@ -4,7 +4,8 @@ title: Animatable Pivot using a Constraint
 description: How to setup an animatable pivot in maya using constraints.
 img: /img/tutorials/animatable_pivot_thumbnail.png
 date: 2013-11-14 18:18:00
-categories: tutorials
+category: tutorials
+tag: [tutorial, constraint, maya, animatable pivot]
 ---
 How to setup an animatable pivot in maya using constraints.
 

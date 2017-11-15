@@ -4,7 +4,8 @@ title: Tank
 description: Tank rig created in Maya.
 img: /img/rigging/tank_thumbnail.png
 date: 2010-07-17 10:26:00
-categories: rigging
+category: rigging
+tag: [rigging, tank, maya, mel, dynamics]
 ---
 <p align="center"><iframe src="https://player.vimeo.com/video/13413789?color=ff9933&title=0&byline=0&portrait=0" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
 

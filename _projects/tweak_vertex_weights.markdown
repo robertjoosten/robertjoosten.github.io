@@ -4,7 +4,8 @@ title: Maya - Tweak Vertex Weights
 description: Tweak influence weights on a vertex level. This tool is part of the rjSkinningTools.
 img: /img/tools/tweak_vertex_weights_thumbnail.png
 date: 2015-03-1 07:59:00
-categories: tools
+category: tools
+tag: [tool, python, maya, pyside, tweak, vertex, weights, skinning]
 github: https://github.com/robertjoosten/rjSkinningTools/tree/master/tweakVertexWeights
 github-docs: https://robertjoosten.github.io/rjSkinningTools/rjSkinningTools.tweakVertexWeights
 gumroad: https://gum.co/rjSkinningTools

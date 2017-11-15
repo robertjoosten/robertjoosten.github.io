@@ -4,7 +4,8 @@ title: Maya - Float to String
 description: This plug-in will register a Maya node that can convert a float to a string so it can be used in combination with an annotation. The display precision can be adjusted and so can a prefix and suffix be added.
 img: /img/tools/float_to_string_thumbnail.png
 date: 2017-11-09 18:00:00
-categories: tools
+category: tools
+tag: [tool, python, maya, maya api, custom node, convert, float, string]
 github: https://github.com/robertjoosten/rjFloatToString
 github-docs: 
 gumroad: https://gum.co/rjFloatToString

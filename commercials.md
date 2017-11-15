@@ -8,7 +8,7 @@ order: 4
 {% assign sorted_projects = site.projects | sort: "date" %}
 {% assign reversed_projects = sorted_projects | reverse %}
 {% for project in reversed_projects %}
-{% if project.categories contains "commercials" %}
+{% if project.category contains "commercials" %}
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">

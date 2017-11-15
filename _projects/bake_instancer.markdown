@@ -4,7 +4,8 @@ title: Maya - Bake Instancer
 description: This plug-in will register a node and a command. With the command it will be possible to query the volume of a mesh and with the node you can query not only the volume but also the surface area of all the faces.
 img: /img/tools/bake_instancer_thumbnail.png
 date: 2016-10-22 11:00:00
-categories: tools
+category: tools
+tag: [tool, python, maya, maya api, pyside, bake, instancer]
 github: https://github.com/robertjoosten/rjBakeInstancer
 github-docs: https://robertjoosten.github.io/rjBakeInstancer/
 gumroad: https://gum.co/rjBakeInstancer

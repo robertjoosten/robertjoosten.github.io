@@ -4,7 +4,8 @@ title: Maya - Timeline Marker
 description: Create coloured markers on top of Maya's native timeline. Comments can be added to each marker that appear as tool tips.
 img: /img/tools/timeline_marker_thumbnail.png
 date: 2015-04-27 15:44:00
-categories: tools
+category: tools
+tag: [tool, python, maya, pyside, timeline, marker]
 github: https://github.com/robertjoosten/rjTimelineMarker
 github-docs: https://robertjoosten.github.io/rjTimelineMarker/
 gumroad: https://gum.co/rjTimelineMarker

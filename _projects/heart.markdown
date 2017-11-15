@@ -4,7 +4,8 @@ title: Heart
 description: Heart rig created in Maya.
 img: /img/rigging/heart_thumbnail.png
 date: 2017-11-12 18:30:00
-categories: rigging
+category: rigging
+tag: [rigging, anatomy, heart, touch surgery, maya]
 ---
 <p align="center"><iframe src="https://player.vimeo.com/video/242466567?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
 

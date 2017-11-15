@@ -4,7 +4,8 @@ title: Maya - Paint Smooth Skin Weights
 description: Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the rjSkinningTools.
 img: /img/tools/paint_smooth_skin_weights_thumbnail.png
 date: 2015-05-04 13:16:00
-categories: tools
+category: tools
+tag: [tool, python, maya, maya api, paint, smooth, weights, skinning, custom command]
 github: https://github.com/robertjoosten/rjSkinningTools/tree/master/paintSmoothWeightsCtx
 github-docs: https://robertjoosten.github.io/rjSkinningTools/rjSkinningTools.paintSmoothWeightsCtx
 gumroad: https://gum.co/rjSkinningTools
