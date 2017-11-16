@@ -13,7 +13,7 @@ no-menu: 1
 {% assign words = tag | split: ' ' %}
 {% capture capitalized_tag %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
 
-<h2 id="{{ tag }}" class="post-title">{{ capitalized_tag }}</h2>
+<h2 id="{{ tag |replace: ' ', '-' }}" class="post-title">{{ capitalized_tag }}</h2>
 <ul class="post-list">
 
 

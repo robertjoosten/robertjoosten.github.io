@@ -29,7 +29,7 @@ layout: default
     {% if page.tag %}
     {% assign sorted_tags = page.tag | sort %}
     {% for tag in sorted_tags %}
-    <a class="post-tag" href="{{ site.baseurl }}/tags#{{ tag }}">{{ tag | upcase }}</a>
+    <a class="post-tag" href="{{ site.baseurl }}/tags#{{ tag |replace: ' ', '-' }}">{{ tag | upcase }}</a>
     {% endfor %}
     {% endif %}
   </p>
