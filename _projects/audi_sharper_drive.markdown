@@ -5,7 +5,7 @@ description:
 img: /img/commercials/audi_sharper_drive_thumbnail.png
 date: 2011-10-11 18:00:00
 category: commercials
-tag: [rigging, pipeline, car, audi, parasol island, maya]
+tag: [rigging, pipeline, audi, parasol island, maya]
 ---
 <p align="center"><iframe src="https://player.vimeo.com/video/30367632?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 

@@ -5,7 +5,7 @@ description: Remove a specific influence on vertices with the paint tool. This t
 img: /img/tools/paint_remove_influences_thumbnail.png
 date: 2015-05-14 12:38:00
 category: tools
-tag: [tool, python, maya, maya api, pyside, paint, remove, skinning, influence, custom command]
+tag: [tool, python, maya, maya api, pyside, paint, skinning, custom command]
 github: https://github.com/robertjoosten/rjSkinningTools/tree/master/paintRemoveInfluenceCtx
 github-docs: https://robertjoosten.github.io/rjSkinningTools/rjSkinningTools.paintRemoveInfluenceCtx
 gumroad: https://gum.co/rjSkinningTools

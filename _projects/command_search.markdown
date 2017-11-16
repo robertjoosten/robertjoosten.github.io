@@ -5,7 +5,7 @@ description: Read all buttons in Maya's native menu and make them searchable and
 img: /img/tools/command_search_thumbnail.png
 date: 2014-10-19 10:24:00
 category: tools
-tag: [tool, python, maya, pyside, search, command]
+tag: [tool, python, maya, pyside]
 github: https://github.com/robertjoosten/rjCMDSearch
 github-docs: https://robertjoosten.github.io/rjCMDSearch/
 gumroad: https://gum.co/rjCMDSearch

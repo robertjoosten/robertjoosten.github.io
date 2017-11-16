@@ -5,7 +5,7 @@ description: This plug-in will register a node and a command. With the command i
 img: /img/tools/mesh_info_thumbnail.png
 date: 2015-11-30 18:00:00
 category: tools
-tag: [tool, python, maya, maya api, custom node, custom command, mesh, volume, surface area]
+tag: [tool, python, maya, maya api, custom node, custom command]
 github: https://github.com/robertjoosten/rjMeshInfo
 github-docs:
 gumroad: https://gum.co/rjMeshInfo

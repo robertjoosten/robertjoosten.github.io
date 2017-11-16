@@ -5,7 +5,7 @@ description: Flamingo rig created in Maya.
 img: /img/commercials/pink_troubles_thumbnail.png
 date: 2014-06-02 05:28:00
 category: [ commercials, rigging ]
-tag: [rigging, flamingo, maya, parasol island]
+tag: [rigging, maya, parasol island]
 ---
 <p align="center"><iframe src="https://player.vimeo.com/video/97102654?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
 

@@ -5,7 +5,7 @@ description: A courier created for Dota 2 - Frostivus 2017 event.
 img: /img/rigging/artic_relic_thumbnail.png
 date: 2017-10-27 18:00:00
 category: rigging
-tag: [dota2, rigging, realtime, artic relic, frostivus, maya]
+tag: [dota2, rigging, realtime, maya]
 ---
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/mMqm7qHN9vA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p> 
 

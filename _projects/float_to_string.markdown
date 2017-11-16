@@ -5,7 +5,7 @@ description: This plug-in will register a Maya node that can convert a float to 
 img: /img/tools/float_to_string_thumbnail.png
 date: 2017-11-09 18:00:00
 category: tools
-tag: [tool, python, maya, maya api, custom node, convert, float, string]
+tag: [tool, python, maya, maya api, custom node]
 github: https://github.com/robertjoosten/rjFloatToString
 github-docs: 
 gumroad: https://gum.co/rjFloatToString

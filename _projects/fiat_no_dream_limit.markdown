@@ -5,7 +5,7 @@ description:
 img: /img/commercials/superfad_jellyfish_thumbnail.png
 date: 2012-11-09 18:00:00
 category: commercials
-tag: [rigging, freelance, car, fiat, superfad, maya, jellyfish]
+tag: [rigging, fiat, superfad, maya]
 ---
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/ZMlwL2oaEwA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 <blockquote><p class="justify">Gorgeous animation in a bold, graphic-novel style make this spot by Doner and Superfad for Fiat 500 a must watch. "No Dream Limit" focuses on the endless possibilities for customization the new Fiat offers, via a surreal, seamless journey taken by two custom Fiat 500 cars: the Beach Cruiser, and the Cafe Racer.</p></blockquote> 

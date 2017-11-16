@@ -5,7 +5,7 @@ description: Convert soft selection to skin weights. This tool is part of the rj
 img: /img/tools/soft_selection_to_weights_thumbnail.png
 date: 2015-03-03 17:29:00
 category: tools
-tag: [tool, python, maya, maya api, pyside, convert, soft selection, skin, weights, skinning]
+tag: [tool, python, maya, maya api, pyside, skinning]
 github: https://github.com/robertjoosten/rjSkinningTools/tree/master/softSelectionToWeights
 github-docs: https://robertjoosten.github.io/rjSkinningTools/rjSkinningTools.softSelectionToWeights
 gumroad: https://gum.co/rjSkinningTools

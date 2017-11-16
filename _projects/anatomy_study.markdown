@@ -5,7 +5,7 @@ description: Anatomy Study of a human head and neck.
 img: /img/modelling/anatomy_study_thumbnail.png
 date: 2012-04-25 18:24:00
 category: modelling
-tag: [anatomy, modelling, lookdev, rendering, specialisation, graduation, maya]
+tag: [anatomy, modelling, maya]
 ---
 <p align="center"><iframe src="https://player.vimeo.com/video/41044827?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
 

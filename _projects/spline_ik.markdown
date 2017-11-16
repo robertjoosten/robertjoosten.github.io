@@ -5,7 +5,7 @@ description: Create a Spline IK setup on a curve. The setup features variable st
 img: /img/tools/spline_ik_thumbnail.png
 date: 2017-10-18 16:45:00
 category: [tools, rigging]
-tag: [tool, python, maya, maya api, pyside, spline, twist, stretch, squash, slide, joints, rigging]
+tag: [tool, python, maya, maya api, pyside, rigging]
 github: https://github.com/robertjoosten/rjSplineIK
 github-docs: https://robertjoosten.github.io/rjSplineIK/
 gumroad: https://gum.co/rjSplineIK

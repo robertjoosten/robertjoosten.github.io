@@ -5,7 +5,7 @@ description: Channel Box Plus will add search-ability over its attributes and it
 img: /img/tools/channel_box_plus_thumbnail.png
 date: 2016-08-13 18:00:00
 category: tools
-tag: [tool, python, maya, pyside, colour, channelbox]
+tag: [tool, python, maya, pyside]
 github: https://github.com/robertjoosten/rjChannelBoxPlus
 github-docs: https://robertjoosten.github.io/rjChannelBoxPlus/
 gumroad: https://gum.co/rjChannelBoxPlus

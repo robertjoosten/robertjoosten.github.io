@@ -5,7 +5,7 @@ description: Retarget blendshapes between meshes with the same topology. Scale a
 img: /img/tools/retarget_blendshape_thumbnail.png
 date: 2016-06-12 09:30:00
 category: tools
-tag: [tool, python, maya, maya api, pyside, retarget, blendshape]
+tag: [tool, python, maya, maya api, pyside]
 github: https://github.com/robertjoosten/rjRetargetBlendshape
 github-docs: https://robertjoosten.github.io/rjRetargetBlendshape/
 gumroad: https://gum.co/rjRetargetBlendshape

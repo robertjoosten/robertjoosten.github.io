@@ -5,7 +5,7 @@ description: Reorder attributes in Maya, drag and drop the attributes into the d
 img: /img/tools/reorder_attributes_thumbnail.png
 date: 2017-03-28 16:14:00
 category: tools
-tag: [tool, python, maya, pyside, reorder, attributes]
+tag: [tool, python, maya, pyside]
 github: https://github.com/robertjoosten/rjReorderAttr
 github-docs: https://robertjoosten.github.io/rjReorderAttr/
 gumroad: https://gum.co/rjReorderAttr

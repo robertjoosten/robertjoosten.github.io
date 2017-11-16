@@ -5,7 +5,7 @@ description: This plug-in will register a node and a command. With the command i
 img: /img/tools/bake_instancer_thumbnail.png
 date: 2016-10-22 11:00:00
 category: tools
-tag: [tool, python, maya, maya api, pyside, bake, instancer]
+tag: [tool, python, maya, maya api, pyside]
 github: https://github.com/robertjoosten/rjBakeInstancer
 github-docs: https://robertjoosten.github.io/rjBakeInstancer/
 gumroad: https://gum.co/rjBakeInstancer
