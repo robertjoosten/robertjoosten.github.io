@@ -6,6 +6,7 @@ no-menu: 1
 ---
 
 {% capture tags %}{% for project in site.projects %}{% for tag in project.tag %}{{ tag }}|{% endfor %}{% endfor %}{% endcapture %}
+{% assign collection_tags = tags | split: "|" %}
 {% assign filtered_tags = tags | split: "|" | uniq | sort %}
 {% assign reversed_projects = site.projects | reverse %}
 
@@ -15,7 +16,17 @@ no-menu: 1
 <ul class="post-list">
 <p class="justify">
 {% for tag in filtered_tags %}
-<a href="/tags/#{{ tag |replace: ' ', '-' }}">{{ tag }}</a>
+
+{% assign tag_count = 0 %}
+{% for t in collection_tags %}
+{% if tag == t %}
+{% assign tag_count = tag_count | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+{% assign rel_tag_size = tag_count | times: 10.0 | divided_by: collection_tags.size | plus: 1 %}
+<span style="font-size: {{ rel_tag_size }}em"><a href="/tags/#{{ tag |replace: ' ', '-' }}">{{ tag }}</a></span>
+
 {% endfor %}
 </p>
 </ul>
@@ -35,7 +46,7 @@ no-menu: 1
 {% if project.tag contains tag %}
     <div style="width: 100%; float: left">
     <div style="float: left">
-    <a href="{{ project.url }}">{{ project.title }}</a>
+    <a href="{{ project.url }}">&#09;{{ project.title }}</a>
     
     </div>
     <div style="float: right">
