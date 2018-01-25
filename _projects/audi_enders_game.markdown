@@ -4,7 +4,7 @@ title: Audi - Enders Game
 description: 
 img: /img/commercials/audi_enders_game_thumbnail.png
 date: 2014-02-07 18:00:00
-category: commercials
+category: [commercials, rigging]
 tag: [rigging, pipeline, audi, topalsson, maya]
 ---
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/iDe0mQS56bM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p> 
