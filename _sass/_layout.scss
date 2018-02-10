@@ -75,7 +75,7 @@ display: line;
  */
 .site-footer {
 border-top: 1px solid $grey-color-dark;
-font-size: 10px;
+font-size: 16px;
 background-color: $grey-color-dark;
 padding: 2px;
 color: #aaa;
@@ -84,6 +84,9 @@ left:0px;
 bottom:0px;
 height:25px;
 width:100%;
+}
+.site-footer i {
+font-size: 10px;
 }
 /**
  * Pagination   **********************************************************
