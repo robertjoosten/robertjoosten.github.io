@@ -34,7 +34,7 @@ rjAnchorTransform.ui.show()
 {% endhighlight %}
 
 <h4>Note</h4>
-<p class="justify">Anchor a transform to world space for a specific time range. Can be used to fix sliding feet on a walk cycle. The script uses the Maya API to calculate local transforms to be key framed, by doing this there is no need to loop over the animation greatly speeding up the work flow. Existing in and out tangents will be copied when new key frames are inserted.</p>
+<p class="justify">Anchor a transform to world space for a specific time range. Can be used to fix sliding feet on a walk cycle. The script uses the Maya API to calculate local transforms to be key framed, by doing this there is no need to loop over the animation greatly speeding up the work flow. Existing in and out tangents will be copied when new key frames are inserted. Once all keys are set an euler filter is applied to the animation curves connected to the rotate attributes.</p>
 
 <h4>Animation Demo Credits</h4>
 rig: <a href="https://www.highend3d.com/maya/downloads/character-rigs/c/dinorig-for-maya" target="_blank">Harry Gladwin-Geoghegan</a><br>
