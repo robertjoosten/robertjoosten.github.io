@@ -5,7 +5,7 @@ description: Auto rigger in Maya.
 img: /img/rigging/auto_rigger_thumbnail.png
 date: 2018-02-18 09:43:00
 category: [rigging, tools]
-tag: [rigging, maya, python, tool, realtime]
+tag: [rigging, maya, python, tool, realtime, touch surgery]
 ---
 <p class="justify">The auto rigger is the result of Friday afternoons personal development time at <a href="https://www.touchsurgery.com">Touch Surgery</a>. A complex modular rigging system that uses building blocks to build a finished rig. To access the API user interfaces are created to make the rigging process easy and user friendly. The rig is fully joint based and can be exported into realtime engines like Unity and Unreal</p> 
 <ul>
