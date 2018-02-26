@@ -4,7 +4,7 @@ title: Image Sequence > Point Cloud
 description: Convert an image sequence to a PLY point cloud.
 img: /img/rnd/img2ply_thumbnail.png
 date: 2017-10-14 13:50:00
-category: rnd
+category: tools
 tag: [rnd, pypi, anatomy, visible human]
 github: https://github.com/robertjoosten/img2ply
 ---
