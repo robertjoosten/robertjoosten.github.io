@@ -24,7 +24,7 @@ C:\Users\<USER>\Documents\maya\scripts
 Command line:
 {% highlight python %}
 import rjAnchorTransform
-rjAnchorTransform.anchorTransform(transform, start, end)
+rjAnchorTransform.anchorTransform(transform, driver, start, end)
 {% endhighlight %}
 
 Display UI:
