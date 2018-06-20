@@ -12,8 +12,8 @@ tag: [rnd, maya, python]
 <p class="justify">At <a href="https://www.touchsurgery.com/">Touch Surgery</a> I had to opportunity to collaborate with Kapil Sahnan and the doctors at <a href="http://www.stmarkshospital.nhs.uk/">St Marks Hospital</a> to work with medical imaging and converting this data into a format usable in any standard 3D package. Animations were supplied for use in the <a href="http://journals.sagepub.com/doi/full/10.1177/1756284818775060#">"Innovation in the imaging perianal fistula: a step towards personalised medicine"</a> paper.</p> 
 
 <ul>
-  <li>Automated Conversion to OBJ ( adjustable polycount )</li>
-  <li>Automated Volume and Surface area calculation</li>
-  <li>Automated Detection of Fistula intersection with other Anatomy</li>
-  <li>Center Path Algorithm ( automatically extracting length and number of tracts)</li>
+  <li>Automated conversion to OBJ ( adjustable polycount )</li>
+  <li>Automated volume and surface area calculation</li>
+  <li>Automated intersection detection between fistula and other pieces of anatomy</li>
+  <li>Implementation of a center path algorithm ( automatically extracting length and number of tracts)</li>
 </ul>
