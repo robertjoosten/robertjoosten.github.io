@@ -9,7 +9,7 @@ layout: default
             <span class="right contacticon">
                 {% if page.github %}<a href="{{ page.github }}"><i class="fa fa-github-square"></i></a>{% endif %}
                 {% if page.github-docs %}<a href="{{ page.github-docs }}"><i class="fa fa-book"></i></a>{% endif %}
-                {% if page.gumroad %}<a href="{{ page.gumroad }}"><i class="fa fa-download"></i></a>{% endif %}
+                {% if page.gumroad %}<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script><a href="{{ page.gumroad }}"><i class="fa fa-download"></i></a>{% endif %}
             </span>
         </p>
         <h1 class="post-title">{{ page.title }}</h1>
@@ -34,3 +34,6 @@ layout: default
     {% endif %}
   </p>
 </div>
+
+
+
