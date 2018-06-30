@@ -11,7 +11,7 @@ tag: [rnd, python, mocap]
 <p align="center"><iframe src="https://player.vimeo.com/video/277548081" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <h4>Proof of concept</h4>
-<p class="justify">After seeing the amazing work done by Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik on the End-to-end Recovery of Human Shape and Pose paper. I wanted to have a look if I could use <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose"><strong>OpenPose</strong></a> and <a href="https://github.com/akanazawa/hmr"><strong>HMR</strong></a> to implement a one click video to mocap solution.</p>
+<p class="justify">After seeing the amazing work done by Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik on the End-to-end Recovery of Human Shape and Pose paper. I wanted to have a look if I could use <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose"><strong>OpenPose</strong></a> and <a href="https://github.com/akanazawa/hmr"><strong>HMR</strong></a> to implement a one click video to mocap solution. The script takes a video and outputs a separate maya file for each person in the video containing and animated HIK skeleton.</p>
 
 <p class="justify">The HMR repository was slightly adjusted to work with python3 in a windows environment and matrices to be exported over multiple frames to support video. The number of joints exported by the HMR solution is insufficient to create a working HIK skeleton, a center hip and spine joint had to be estimated.</p>
 
