@@ -5,7 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    
+    {% if page.img %}
+    <meta property="og:image" content="{{ site.baseurl }}{{page.img}} />
+    {% endif %}
+    
     <title>{% if page.title %}{{ site.title | downcase  }} : {{ page.title | downcase  }}{% else %}{{ site.title | downcase  }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
