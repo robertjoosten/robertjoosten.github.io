@@ -4,7 +4,7 @@ email: rwm.joosten@gmail.com
 description: >
     Robert Joosten : Rigging, Pipeline and Supervision
 baseurl: 
-url: technicaldirector.nl
+url: http://technicaldirector.nl
 
 # Build settings
 markdown: kramdown
