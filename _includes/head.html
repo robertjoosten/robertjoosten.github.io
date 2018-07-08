@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     {% if page.img %}
-    <meta property="og:image" content="{{ site.baseurl }}{{page.img}}"/>
+    <meta property="og:image" content="{{ site.url }}{{page.img}}"/>
     {% endif %}
     
     <title>{% if page.title %}{{ site.title | downcase  }} : {{ page.title | downcase  }}{% else %}{{ site.title | downcase  }}{% endif %}</title>
