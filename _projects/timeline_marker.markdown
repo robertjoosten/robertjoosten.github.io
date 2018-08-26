@@ -6,27 +6,16 @@ img: /img/tools/timeline_marker_thumbnail.png
 date: 2015-04-27 15:44:00
 category: tools
 tag: [tool, python, maya, pyside]
-github: https://github.com/robertjoosten/rjTimelineMarker
-github-docs: https://robertjoosten.github.io/rjTimelineMarker/
-gumroad: https://gum.co/rjTimelineMarker
+github: https://github.com/robertjoosten/timeline-marker
+github-docs: https://robertjoosten.github.io/timeline-marker/
+gumroad: https://gum.co/timeline-marker
 ---
 <p class="justify">Create coloured markers on top of Maya's native timeline. Comments can be added to each marker that appear as tool tips.</p>
-
 <p align="center"><img class="col three" src="/img/tools/timeline_marker_demo.gif"/></p>
-<br>
-<h4>Installation</h4> 
-<p class="justify">Copy the rjTimelineMarker folder to your Maya scripts directory: </p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
 
-<h4>Usage</h4> 
-Add the interface and functionality to Maya:
-{% highlight python %}
-import maya.cmds as cmds 
-cmds.evalDeferred("import rjTimelineMarker; rjTimelineMarker.install()")
-{% endhighlight %}
-<p class="justify">This line of code can also be added in the userSetup.py if you would like the functionality to persist. </p>
+<h4>Installation</h4> 
+* Extract the content of the .rar file anywhere on disk.
+* Drag the timelineMarker.mel file in Maya to permanently install the script.
 
 <h4>Note</h4>
 <p class="justify">The UI elements are added to the timeline menu and can be accessed by right clicking on the timeline. You have the option to change the color of your marker points and also add comments where necessary. Tool tips will appear to show the comment while hovering over the timeline. The markers are stored in the maya file.</p>
