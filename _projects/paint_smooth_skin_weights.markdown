@@ -1,31 +1,22 @@
 ---
 layout: post
 title: Maya - Paint Smooth Skin Weights
-description: Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the rjSkinningTools.
+description: Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the skinning-tools.
 img: /img/tools/paint_smooth_skin_weights_thumbnail.png
 date: 2015-05-04 13:16:00
 category: tools
 tag: [tool, python, maya, maya api, paint, skinning, custom command]
-github: https://github.com/robertjoosten/rjSkinningTools/tree/master/paintSmoothWeightsCtx
-github-docs: https://robertjoosten.github.io/rjSkinningTools/rjSkinningTools.paintSmoothWeightsCtx
-gumroad: https://gum.co/rjSkinningTools
+github: https://github.com/robertjoosten/skinning-tools/tree/master/scripts/skinningTools/paintSmoothWeightsCtx
+github-docs: https://robertjoosten.github.io/skinning-tools/skinningTools.paintSmoothWeightsCtx
+gumroad: https://gum.co/skinning-tools
 ---
-<p class="justify">Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the rjSkinningTools.</p>
+<p class="justify">Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the skinning-tools.</p>
 
 <p align="center"><iframe src="https://player.vimeo.com/video/126825847?color=ff9933&title=0&byline=0&portrait=0" width="640" height="330" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <h4>Installation</h4> 
-<p class="justify">Copy the rjSkinningTools folder to your Maya scripts directory: </p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
-
-<h4>Usage</h4> 
-Select a skinned object and run the following code:
-{% highlight python %}
-from rjSkinningTools import paintSmoothWeightsCtx;
-paintSmoothWeightsCtx.paint()
-{% endhighlight %}
+* Extract the content of the .rar file anywhere on disk.
+* Drag the skinningTools.mel file in Maya to permanently install the script.
 
 <h4>Note</h4>
 <p class="justify">The paint tool calls a script that find the surrounding vertices and its skin weights. These skin weights are then blended with the skin weights of the original vertex based value of the paint tool.</p>
