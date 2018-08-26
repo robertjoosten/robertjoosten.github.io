@@ -6,9 +6,9 @@ img: /img/tools/command_search_thumbnail.png
 date: 2014-10-19 10:24:00
 category: tools
 tag: [tool, python, maya, pyside]
-github: https://github.com/robertjoosten/command-search
-github-docs: https://robertjoosten.github.io/command-search/
-gumroad: https://gum.co/command-search
+github: https://github.com/robertjoosten/maya-command-search
+github-docs: https://robertjoosten.github.io/maya-command-search/
+gumroad: https://gum.co/maya-command-search
 ---
 <p class="justify">Read all buttons in Maya's native menu and make them searchable and executable.</p>
 
