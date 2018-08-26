@@ -19,7 +19,7 @@ gumroad: https://gum.co/command-search
 * Drag the commandSearch.mel file in Maya to permanently install the script.
 
 <h4>Note</h4>
-<p class="justify">Every time the UI is opened for the first time in a new session of Maya, the script loops over all of Maya's menu bar content to retrieve all of the its information and store it in an easy accessible format. Since its over 1600 buttons, this process will take a few seconds. Its best to add this script to the userSetup.py so the interface will automatically be added to Maya when it is started.</p>
+<p class="justify">Every time the UI is opened for the first time in a new session of Maya, the script loops over all of Maya's menu bar content to retrieve all of the its information and store it in an easy accessible format. Since its over 1600 buttons, this process will take a few seconds.</p>
 
 <p class="justify">The commands can always be refreshed by clicking on the magnifying glass button.</p>
 
