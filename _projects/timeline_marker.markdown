@@ -23,16 +23,16 @@ gumroad: https://gum.co/timeline-marker
 <h4>Hotkey</h4>
 <p class="justify">The hotkey function can be used to setup hotkeys to manage the timeline markers. There are three options, this is to either add, remove or clear the markers. Make sure the language is set to python.</p>
 {% highlight python %}
-import rjTimelineMarker; rjTimelineMarker.hotkey("add")
-import rjTimelineMarker; rjTimelineMarker.hotkey("remove")
-import rjTimelineMarker; rjTimelineMarker.hotkey("clear")
+import timelineMarker; timelineMarker.hotkey("add")
+import timelineMarker; timelineMarker.hotkey("remove")
+import timelineMarker; timelineMarker.hotkey("clear")
 {% endhighlight %}
 
 <h4>Command line</h4>
 <p class="justify">The following functions can be used outside of the ui. Make sure the language is set to python.</p>
 {% highlight python %}
-import rjTimelineMarker; rjTimelineMarker.add(frame, color, comment)
-import rjTimelineMarker; rjTimelineMarker.remove(frames)
-import rjTimelineMarker; rjTimelineMarker.clear()
-import rjTimelineMarker; rjTimelineMarker.set(frames, colors, comments)
+import timelineMarker; timelineMarker.add(frame, color, comment)
+import timelineMarker; timelineMarker.remove(frames)
+import timelineMarker; timelineMarker.clear()
+import timelineMarker; timelineMarker.set(frames, colors, comments)
 {% endhighlight %}
