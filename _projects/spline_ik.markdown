@@ -6,27 +6,27 @@ img: /img/tools/spline_ik_thumbnail.png
 date: 2017-10-18 16:45:00
 category: [tools, rigging]
 tag: [tool, python, maya, maya api, pyside, rigging]
-github: https://github.com/robertjoosten/rjSplineIK
-github-docs: https://robertjoosten.github.io/rjSplineIK/
-gumroad: https://gum.co/rjSplineIK
+github: https://github.com/robertjoosten/maya-spline-ik
+github-docs: https://robertjoosten.github.io/maya-spline-ik/
+gumroad: https://gum.co/maya-spline-ik
 ---
 <p class="justify">Create a Spline IK setup on a curve. The setup features variable stretch and squash, variable rotation and sliding on curve.</p>
 
 <p align="center"><iframe src="https://player.vimeo.com/video/239009885?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <h4>Installation</h4> 
-<p class="justify">Copy the rjSplineIK folder to your Maya scripts directory: </p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
+* Extract the content of the .rar file anywhere on disk.
+* Drag the splineIK.mel file in Maya to permanently install the script.
 
 <h4>Usage</h4> 
+<p class="justify">A button on the MiscTools shelf will be created that will allow easy access to the ui, this way the user doesn't need to worry about any of the code. If user wishes to not use the shelf button the following commands can be used.</p>
+
 Command line:
 {% highlight python %}
-from rjSplineIK import SplineIK
+from splineIK import SplineIK
 
-splineIK = SplineIK()
-splineIK.create(
+sik = SplineIK()
+sik.create(
     name,
     curve,
     numJoints,
@@ -38,8 +38,8 @@ splineIK.create(
 
 Display UI:
 {% highlight python %}
-import rjSplineIK.ui
-rjSplineIK.ui.show()
+import splineIK.ui
+splineIK.ui.show()
 {% endhighlight %}
 
 <p class="caption" align="center"><img src="/img/tools/spline_ik_ui.png"/><br/>UI Example</p>
