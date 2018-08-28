@@ -6,25 +6,25 @@ img: /img/tools/retarget_blendshape_thumbnail.png
 date: 2016-06-12 09:30:00
 category: tools
 tag: [tool, python, maya, maya api, pyside]
-github: https://github.com/robertjoosten/rjRetargetBlendshape
-github-docs: https://robertjoosten.github.io/rjRetargetBlendshape/
-gumroad: https://gum.co/rjRetargetBlendshape
+github: https://github.com/robertjoosten/maya-retarget-blendshape
+github-docs: https://robertjoosten.github.io/maya-retarget-blendshape/
+gumroad: https://gum.co/maya-retarget-blendshape
 ---
 <p class="justify">Retarget blendshapes between meshes with the same topology. Scale and rotation deltas are calculated between the two meshes. If the geometry is very different a smoothing algorithm can be applied.</p>
 
 <p align="center"><iframe src="https://player.vimeo.com/video/170360738?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <h4>Installation</h4> 
-<p class="justify">Copy the rjRetargetBlendshape folder to your Maya scripts directory: </p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
+* Extract the content of the .rar file anywhere on disk.
+* Drag the retargetBlendshape.mel file in Maya to permanently install the script.
 
 <h4>Usage</h4> 
+<p class="justify">A button on the MiscTools shelf will be created that will allow easy access to the ui, this way the user doesn't need to worry about any of the code. If user wishes to not use the shelf button the following commands can be used.</p>
+
 Command: 
 {% highlight python %}
-import rjRetargetBlendshape 
-rjRetargetBlendshape.convert( 
+import retargetBlendshape 
+retargetBlendshape.convert( 
     source, 
     blendshape, 
     target, 
@@ -38,8 +38,8 @@ rjRetargetBlendshape.convert(
 
 Display UI: 
 {% highlight python %}
-import rjRetargetBlendshape.ui 
-rjRetargetBlendshape.ui.show()
+import retargetBlendshape.ui 
+retargetBlendshape.ui.show()
 {% endhighlight %}
 
 <h4>Note</h4> 
