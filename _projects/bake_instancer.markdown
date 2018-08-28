@@ -6,29 +6,29 @@ img: /img/tools/bake_instancer_thumbnail.png
 date: 2016-10-22 11:00:00
 category: tools
 tag: [tool, python, maya, maya api, pyside]
-github: https://github.com/robertjoosten/rjBakeInstancer
-github-docs: https://robertjoosten.github.io/rjBakeInstancer/
-gumroad: https://gum.co/rjBakeInstancer
+github: https://github.com/robertjoosten/maya-bake-instancer
+github-docs: https://robertjoosten.github.io/maya-bake-instancer/
+gumroad: https://gum.co/maya-bake-instancer
 ---
 <p class="justify">Bake an instancer node to individual animated pieces of geometry. Useful for people that haven't switched to Maya 2017 yet, where this is standard functionality.</p>
 
 <p align="center"><iframe src="https://player.vimeo.com/video/188421440?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <h4>Installation</h4> 
-<p class="justify">Copy the rjBakeInstancer folder to your Maya scripts directory: </p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
+* Extract the content of the .rar file anywhere on disk.
+* Drag the bakeInstancer.mel file in Maya to permanently install the script.
 
 <h4>Usage</h4> 
+<p class="justify">A button on the MiscTools shelf will be created that will allow easy access to the ui, this way the user doesn't need to worry about any of the code. If user wishes to not use the shelf button the following commands can be used.</p>
+
 Command: 
 {% highlight python %}
-import rjBakeInstancer 
-rjBakeInstancer.bake(instancer, start, end)
+import bakeInstancer 
+bakeInstancer.bake(instancer, start, end)
 {% endhighlight %}
 
 Display UI: 
 {% highlight python %}
-import rjBakeInstancer.ui 
-rjBakeInstancer.ui.show()
+import bakeInstancer.ui 
+bakeInstancer.ui.show()
 {% endhighlight %}
