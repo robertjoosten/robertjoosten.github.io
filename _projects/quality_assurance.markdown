@@ -6,31 +6,31 @@ img: /img/tools/quality_assurance_thumbnail.png
 date: 2018-01-21 11:33:00
 category: tools
 tag: [tool, python, maya, maya api, pyside]
-github: https://github.com/robertjoosten/rjQualityAssurance
-github-docs: https://robertjoosten.github.io/rjQualityAssurance
-gumroad: https://gum.co/rjQualityAssurance
+github: https://github.com/robertjoosten/maya-quality-assurance
+github-docs: https://robertjoosten.github.io/maya-quality-assurance/
+gumroad: https://gum.co/maya-quality-assurance
 ---
 <p class="justify">Quality assurance framework for Maya. Focused on many parts of a production pipeline, collections are created for animators, modelers, riggers and look-dev. </p>
 
 <p align="center"><img src="/img/tools/quality_assurance_usage.gif"/></p>
 
 <h4>Installation</h4> 
-<p class="justify">Copy the rjQualityAssurance folder to your Maya scripts directory:</p>
-{% highlight text %}
-C:\Users\<USER>\Documents\maya\scripts
-{% endhighlight %}
+* Extract the content of the .rar file anywhere on disk.
+* Drag the qualityAssurance.mel file in Maya to permanently install the script.
 
 <h4>Usage</h4> 
+<p class="justify">A button on the MiscTools shelf will be created that will allow easy access to the ui, this way the user doesn't need to worry about any of the code. If user wishes to not use the shelf button the following commands can be used.</p>
+
 Display UI:
 {% highlight python %}
-import rjQualityAssurance.ui
-rjQualityAssurance.ui.show("rigging")  
+import qualityAssurance.ui
+qualityAssurance.ui.show("rigging")  
 {% endhighlight %}
 
 <p class="justify">The show function takes in a collection argument, if you work within one of the specialties you can simply call the show function with the collection you want to see by default. To see all available collections run the following code.</p>
 {% highlight python %}
-import rjQualityAssurance.collections
-print rjQualityAssurance.collections.getCollectionsCategories()  
+import qualityAssurance.collections
+print qualityAssurance.collections.getCollectionsCategories()  
 {% endhighlight %}
 
 <h4>Adding Quality Assurance Checks</h4> 
@@ -93,4 +93,4 @@ class TestCheck(QualityAssurance):
 * The **_fix** function fixes one of these errors at a time. In the example above we could find multiple animation curves, but the fix only deletes one animation curve at a time.
 
 <h4>Note</h4>
-Inspired by Martin Orlowski's <strong>Quality GuAard</strong>, I've decided to write my own quality assurance framework and make it freely available. The project is available on [Git](https://github.com/robertjoosten/rjQualityAssurance). Free for anybody that wishes to contribute to this tool and add additional quality assurance checks. 
+Inspired by Martin Orlowski's <strong>Quality GuAard</strong>, I've decided to write my own quality assurance framework and make it freely available. The project is available on [Git](https://github.com/robertjoosten/maya-quality-assurance). Free for anybody that wishes to contribute to this tool and add additional quality assurance checks. 
