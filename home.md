@@ -8,7 +8,7 @@ order: 1
 {% assign sorted_projects = site.projects | sort: "date" %}
 {% assign reversed_projects = sorted_projects | reverse %}
 {% for project in reversed_projects %}
-
+{% if project.home == null %}
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
@@ -23,5 +23,5 @@ order: 1
     </div>
     <p class="caption"><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></p>
 </div>
-
+{% endif %}
 {% endfor %}

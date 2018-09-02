@@ -2,6 +2,7 @@
 layout: post
 title: Medical Imaging - Fistula
 description: Innovation in the imaging perianal fistula, a step towards personalised medicine.
+home: false
 img: /img/rnd/fistula_thumbnail.png
 date: 2018-05-24 12:00:00
 category: rnd
