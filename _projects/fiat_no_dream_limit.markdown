@@ -4,7 +4,7 @@ title: Fiat - No Dream Limit
 description: 
 img: /img/commercials/superfad_jellyfish_thumbnail.png
 date: 2012-11-09 18:00:00
-category: [commercials, rigging]
+category: [projects, rigging]
 tag: [rigging, fiat, superfad, maya]
 ---
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/ZMlwL2oaEwA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>

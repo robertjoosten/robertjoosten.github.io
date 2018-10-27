@@ -2,7 +2,7 @@
 layout: page
 title: Tutorials
 permalink: /tutorials/
-order: 10
+order: 9
 ---
 
 {% assign sorted_projects = site.projects | sort: "date" %}

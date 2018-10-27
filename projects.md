@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Commercials
-permalink: /commercials/
-order: 4
+title: projects
+permalink: /projects/
+order: 7
 ---
 
 {% assign sorted_projects = site.projects | sort: "date" %}
 {% assign reversed_projects = sorted_projects | reverse %}
 {% for project in reversed_projects %}
-{% if project.category contains "commercials" %}
+{% if project.category contains "projects" %}
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
