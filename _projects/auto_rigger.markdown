@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Auto Rigger
+title: Maya - Another Auto Rigger
 description: Auto rigger in Maya.
 img: /img/rigging/auto_rigger_thumbnail.png
 date: 2018-02-18 09:43:00
