@@ -5,7 +5,7 @@ description: Anchor Transform in Maya.
 img: /img/tools/anchor_transform_thumbnail.png
 date: 2017-12-17 11:00:00
 category: tools
-tag: [tool, python, maya, maya api, pyside]
+tag: [tool, python, maya, maya api, pyside, animation]
 github: https://github.com/robertjoosten/maya-anchor-transform
 github-docs: https://robertjoosten.github.io/maya-anchor-transform/
 gumroad: https://gum.co/maya-anchor-transform
