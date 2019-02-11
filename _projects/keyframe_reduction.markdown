@@ -4,7 +4,7 @@ title: Maya - Keyframe Reduction
 description: Keyframe reduction for Maya using least-squares method.
 img: /img/tools/keyframe_reduction_thumbnail.png
 date: 2019-02-10 15:30:00
-category: [tools, rigging]
+category: [tools]
 tag: [tool, python, maya, pyside, rigging, animation]
 github: https://github.com/robertjoosten/maya-keyframe-reduction
 github-docs: https://robertjoosten.github.io/maya-keyframe-reduction/
