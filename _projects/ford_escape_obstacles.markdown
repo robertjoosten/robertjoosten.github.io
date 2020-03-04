@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ford Escape - Obstacles
+title: Ford - Obstacles
 description: 
 img: /img/commercials/ford_obstacles_thumbnail.png
 date: 2020-03-03 18:55:00
