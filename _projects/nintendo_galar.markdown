@@ -7,7 +7,7 @@ date: 2019-11-14 18:00:00
 category: [projects, rigging]
 tag: [rigging, nintendo, framestore, maya]
 ---
-<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/-Nl_t9yeV0k" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/PlM-z2uC9fQ" frameborder="0" allowfullscreen></iframe></p>
 
 <blockquote><p class="justify">The ad shows off Sword and Shield’s gameplay by manifesting the classic Pokémon characters and their environments in the real world. Using production design and digital matte painting, Framestore transformed a picturesque English village into a mirror of the Galar region of the game itself.</p></blockquote> 
 
