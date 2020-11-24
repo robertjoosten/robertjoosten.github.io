@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego&#174; Wall-E
+title: Lego&#174; - Wall-E
 description: Tank rig created in Maya.
 img: /img/rigging/wall_e_thumbnail.png
 date: 2020-06-13 10:52:00
