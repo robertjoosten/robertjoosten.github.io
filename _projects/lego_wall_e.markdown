@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego&#174; - Wall-E
+title: Lego - Wall-E
 description: Tank rig created in Maya.
 img: /img/rigging/wall_e_thumbnail.png
 date: 2020-06-13 10:52:00
@@ -8,7 +8,7 @@ category: [rigging, modelling]
 tag: [rigging, maya, python]
 gumroad: https://gum.co/lego-wall-e-rigs
 ---
-<p align="center"><iframe src="https://player.vimeo.com/video/428959325?color=ff9933&title=0&byline=0&portrait=0" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/wSXAWMgNjMQ" frameborder="0" allowfullscreen></iframe></p>
 
 <p class="justify">I'm a massive fan of the movie Wall-E. It has always amazed me how the animators at Pixar were able to display emotion from a robot, without a single word being spoken. Rather than recreating the Wall-E from the film, I've decided to model the Lego&#174; version which I have at home. Having modelled and rigged the character <a href="http://upsidedan.com/">Daniel Bielawski</a> was kind enough to take on the task of bringing Wall-E to life which you can see in the playblast above.</p> 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego&#174; - Rebuild The World
+title: Lego - Rebuild The World
 description: 
 img: /img/commercials/lego_rebuild_the_world_2020_thumbnail.png
 date: 2020-11-14 18:00:00
