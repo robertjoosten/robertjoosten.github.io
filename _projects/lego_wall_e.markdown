@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lego - Wall-E
-description: Tank rig created in Maya.
+description: Wall-E rig created in Maya.
 img: /img/rigging/wall_e_thumbnail.png
 date: 2020-06-13 10:52:00
 category: [rigging, modelling]
