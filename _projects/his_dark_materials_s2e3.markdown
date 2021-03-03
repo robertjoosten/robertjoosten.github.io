@@ -1,13 +1,13 @@
 ---
 layout: post
-title: His Dark Materials S2E3
+title: His Dark Materials S2
 description: Lemur rig created in Maya.
 img: /img/tv/his_dark_materials_s2e3_thumbnail.png
 date: 2020-12-04 18:00:00
 category: [projects, rigging]
 tag: [rigging, bbc, framestore, maya]
 ---
-<p align="center"><img class="col three" src="/img/tv/his_dark_materials_s2e3_banner.png"/></p>
+<p align="center"><iframe src="https://player.vimeo.com/video/518985847" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 <p class="justify">Really pleased to have been part of an excellent team that brought the Lemur to life. It featured briefly in a couple of shots in the third episode of the second season.</p> 
 
