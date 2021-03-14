@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maya - ORM
+title: Maya - Metadata Framework
 description: Django inspired metadata framework for Maya.
 img: /img/tools/mango_thumbnail.png
 date: 2020-10-14 12:38:00
