@@ -7,7 +7,7 @@ order: 25
 
 <p align="center"><img src="/img/profile.png"></p>
 <h4>Summary</h4>
-<p class="justify">My name is Robert Joosten, I like rigging and pipeline development as it involves exercising my high degree of problem solving abilities. Currently I am working at Framestore as a Senior Rigging TD. In my spare time I like to develop tools that make the life of riggers and animators a little bit easier and create rigs for all sorts of ranges of characters that can be used for real-time or render purposes.</p>
+<p class="justify">My name is Robert Joosten, I like rigging and pipeline development as it involves exercising my high degree of problem solving abilities. Currently I am working at Realtime as a Senior Character TD. In my spare time I like to develop tools that make the life of riggers and animators a little bit easier and create rigs for all sorts of ranges of characters that can be used for real-time or render purposes.</p>
 
 <h4>Resume</h4>
 <span class="contacticon">
