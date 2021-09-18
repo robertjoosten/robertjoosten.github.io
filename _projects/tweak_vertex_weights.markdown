@@ -6,8 +6,8 @@ img: /img/tools/tweak_vertex_weights_thumbnail.png
 date: 2015-03-1 07:59:00
 category: tools
 tag: [tool, python, maya, pyside, skinning]
-github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinningTools/tweakVertexWeights
-github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinningTools.tweakVertexWeights
+github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinning/tools/tweak_weights
+github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinning.tools.tweak_weights
 gumroad: https://gum.co/maya-skinning-tools
 ---
 <p class="justify">Tweak influence weights on a vertex level. This tool is part of the maya-skinning-tools.</p>

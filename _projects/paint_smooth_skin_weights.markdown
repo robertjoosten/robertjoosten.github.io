@@ -6,8 +6,8 @@ img: /img/tools/paint_smooth_skin_weights_thumbnail.png
 date: 2015-05-04 13:16:00
 category: tools
 tag: [tool, python, maya, maya api, paint, skinning, custom command]
-github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinningTools/paintSmoothWeightsCtx
-github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinningTools.paintSmoothWeightsCtx
+github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinning/tools/smooth_weights_context
+github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinning.tools.smooth_weights_context
 gumroad: https://gum.co/maya-skinning-tools
 ---
 <p class="justify">Paint smooth weights tool in Maya using the weights of neighbouring vertices. This tool is part of the maya-skinning-tools.</p>

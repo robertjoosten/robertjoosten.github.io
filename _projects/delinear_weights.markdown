@@ -6,8 +6,8 @@ img: /img/tools/delinear_weights_thumbnail.png
 date: 2017-12-02 11:00:00
 category: tools
 tag: [tool, python, maya, maya api, pyside, skinning]
-github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinningTools/delinearWeights
-github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinningTools.delinearWeights
+github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinning/tools/delinear_weights
+github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinning.tools.delinear_weights
 gumroad: https://gum.co/maya-skinning-tools
 ---
 <p class="justify">De-linearize skin weights with easing algorithms. This tool is part of the maya-skinning-tools.</p>

@@ -6,8 +6,8 @@ img: /img/tools/soft_selection_to_weights_thumbnail.png
 date: 2015-03-03 17:29:00
 category: tools
 tag: [tool, python, maya, maya api, pyside, skinning]
-github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinningTools/softSelectionToWeights
-github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinningTools.softSelectionToWeights
+github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinning/tools/soft_selection_weights
+github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinning.tools.soft_selection_weights
 gumroad: https://gum.co/maya-skinning-tools
 ---
 <p class="justify">Convert soft selection to skin weights. This tool is part of the maya-skinning-tools.</p>

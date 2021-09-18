@@ -6,8 +6,8 @@ img: /img/tools/paint_remove_influences_thumbnail.png
 date: 2015-05-14 12:38:00
 category: tools
 tag: [tool, python, maya, maya api, pyside, paint, skinning, custom command]
-github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinningTools/paintRemoveInfluenceCtx
-github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinningTools.paintRemoveInfluenceCtx
+github: https://github.com/robertjoosten/maya-skinning-tools/tree/master/scripts/skinning/tools/remove_weights_context
+github-docs: https://robertjoosten.github.io/maya-skinning-tools/skinning.tools.remove_weights_context
 gumroad: https://gum.co/maya-skinning-tools
 ---
 <p class="justify">Remove a specific influence on vertices with the paint tool. This tool is part of the maya-skinning-tools.</p>
