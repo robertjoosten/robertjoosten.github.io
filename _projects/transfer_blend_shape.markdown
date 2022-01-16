@@ -10,7 +10,7 @@ github: https://github.com/robertjoosten/maya-transfer-blend-shape
 github-docs: https://robertjoosten.github.io/maya-transfer-blend-shape/
 gumroad: https://gum.co/maya-transfer-blend-shape
 ---
-<p class="justify">Retarget your blend shapes between meshes with the same topology.</p>
+<p class="justify">Transfer your blend shapes between meshes with the same topology.</p>
 
 <p align="center"><img class="col three" src="/img/tools/transfer_blend_shape_workflow.png"/></p>
 <p align="center"><i>Workflow</i></p>
