@@ -17,7 +17,7 @@ tag: [rigging, maya, python, tool, realtime, digital surgery]
 </ul>
 <h3 id="creation">Creation</h3>
 <br>
-<p align="center"><iframe src="https://player.vimeo.com/video/256283167?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/mjcZ9yOXYG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <h4>Gender</h4>
 <p class="justify">The biped preset has a female and a male creation mode. Breast controls are added when the female creation mode is chosen.</p>
@@ -30,7 +30,7 @@ tag: [rigging, maya, python, tool, realtime, digital surgery]
 
 <h3 id="body">Body Features</h3>
 <br>
-<p align="center"><iframe src="https://player.vimeo.com/video/256282460?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/lIUD5vZieOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <h4>Character</h4>
 <ul>
@@ -76,7 +76,7 @@ tag: [rigging, maya, python, tool, realtime, digital surgery]
 
 <h3 id="facial">Facial Features</h3>
 <br>
-<p align="center"><iframe src="https://player.vimeo.com/video/256286886?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/GP_me3YKlbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <h4>Facial Expressions</h4>
 <p class="justify">A total of 47 different shapes are generated based on the distance/angle between joints and surface normal of the geometry. Each shape is accessable through attributes on the head control. 19 shapes are generated using the face controls and 28 shapes are generated with the mouth controls</p>
@@ -113,7 +113,7 @@ tag: [rigging, maya, python, tool, realtime, digital surgery]
 
 <h3 id="deformation">Deformation</h3>
 <br>
-<p align="center"><iframe src="https://player.vimeo.com/video/256288130?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/2Z0Kn8Lpo9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <h4>Deformation System</h4>
 <p class="justify">The deformation is driven by a color coded skeleton.</p>

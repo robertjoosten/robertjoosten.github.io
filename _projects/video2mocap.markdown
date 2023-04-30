@@ -9,7 +9,7 @@ tag: [rnd, python, mocap]
 github: https://github.com/robertjoosten/video2mocap
 ---
 
-<p align="center"><iframe src="https://player.vimeo.com/video/277548081" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/tP0OAlUwj5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p class="justify">After seeing the amazing work done by Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik on the End-to-end Recovery of Human Shape and Pose paper. I wanted to have a look if I could use <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose"><strong>OpenPose</strong></a> and <a href="https://github.com/akanazawa/hmr"><strong>HMR</strong></a> to implement a one click video to mocap solution. The script takes a video and outputs a separate maya file for each person in the video containing and animated HIK skeleton.</p>
 

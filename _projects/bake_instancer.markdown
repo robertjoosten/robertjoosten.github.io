@@ -12,7 +12,7 @@ gumroad: https://gum.co/maya-bake-instancer
 ---
 <p class="justify">Bake an instancer node to individual animated pieces of geometry. Useful for people that haven't switched to Maya 2017 yet, where this is standard functionality.</p>
 
-<p align="center"><iframe src="https://player.vimeo.com/video/188421440?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/VuG7L3TVEC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 
 <h4>Installation</h4> 
 * Extract the content of the .rar file anywhere on disk.

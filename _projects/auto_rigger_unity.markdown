@@ -11,7 +11,7 @@ github: https://github.com/robertjoosten/unity-another-auto-rigger/
 
 <p class="justify">The auto rigger contains a lot of helper joints, these helper joints are not going to be driven by the Unity's Mecanim system. The runtime manager script allows you to apply the .skeletonPreset file exported in Maya to the skeleton in Unity. It will apply scripts to the helper joints and set the correct settings coming from Maya meaning the deformation will be identical between the two applications. Once this process is done the helper joints are driven by joints that are controlled by the Mecanim system.</p> 
 
-<p align="center"><iframe src="https://player.vimeo.com/video/301451175?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/JSiruHvTVj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <h4>Runtime Manager</h4>
 <br>

@@ -7,7 +7,7 @@ date: 2020-12-04 18:00:00
 category: [projects, rigging]
 tag: [rigging, bbc, framestore, maya]
 ---
-<p align="center"><iframe src="https://player.vimeo.com/video/518985847" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/XSpSqaOyWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <p class="justify">Really pleased to have been part of an excellent team at Framestore that brought the Lemur to life. It featured briefly in a couple of shots in the third episode of the second season.</p> 
 

@@ -17,7 +17,7 @@ github: https://github.com/robertjoosten/img2ply
 <h4>Visible Human Project</h4>
 <p class="justify">If you would like to create your own point cloud, the visible human project can be downloaded <a href="https://www.nlm.nih.gov/research/visible/visible_human.html">here</a>.</p>
 
-<p align="center"><iframe src="https://player.vimeo.com/video/238207429?color=ff9933&title=0&byline=0&portrait=0" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/2fiywpDHw78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 
 <h4>Installation</h4>
 Using pip:

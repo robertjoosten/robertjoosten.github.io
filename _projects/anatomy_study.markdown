@@ -7,7 +7,7 @@ date: 2012-04-25 18:24:00
 category: modelling
 tag: [anatomy, modelling, maya]
 ---
-<p align="center"><iframe src="https://player.vimeo.com/video/41044827?color=ff9933&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/P-IXJg7fVes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
 
 <p class="justify">The anatomy study of the head and neck was my graduation project at the Game Architecture and Design course at the NHTV in Breda, Netherlands. The graduation project build upon the specialisation project, to me it was a great challenge to explore the human anatomy even more. It was obvious from the beginning there was no way I would be able to finish the entire human body in only 20 weeks. Therefore I decided to focus on the head and neck area which I found most interesting. This project gave me the change to improve my modelling, sculpting, texturing, shader writing, lighting and render setup skills.</p>
 <h4>Credits</h4> 
