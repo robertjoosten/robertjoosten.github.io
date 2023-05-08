@@ -7,7 +7,7 @@ date: 2021-09-30 20:00:00
 category: [projects, rigging]
 tag: [rigging, james bond, framestore, maya]
 ---
-<p align="center"><img class="col three" src="/img/feature/no_time_to_die_banner.png"/></p>
+<p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/7hSzcYndaYw" frameborder="0" allowfullscreen></iframe></p>
 
 <p class="justify">It took a long time after completion to be able to see the work on the James Bond - No Time To Die opening sequence. As always it is a beautiful creative piece with lots of bright colours and crazy things happening.</p>
 
