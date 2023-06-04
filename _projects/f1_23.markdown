@@ -3,13 +3,13 @@ layout: post
 title: F1® - 23
 description: 
 img: /img/commercials/f1_23_thumbnail.png
-date: 2023-05-22 18:00:00
+date: 2023-06-01 18:00:00
 category: [projects, rigging, tools]
 tag: [mocap, rigging, realtime, maya]
 ---
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/UovIvKq6794" frameborder="0" allowfullscreen></iframe></p>
 
-<p class="justify">For Codemasters F1 23, <a href="https://realtimeuk.com/">Realtime</a> created the cinematic cutscenes for the Braking Point 2 story mode. Character rigs where created for all of the Konnorsport team members. Body animation was driven via motion capture from Audiomotion and the facial performance was captured using Di4D.</p>
+<p class="justify">For Codemasters F1® 23, <a href="https://realtimeuk.com/">Realtime</a> created the cinematic cutscenes for the Braking Point 2 story mode. Character rigs where created for all of the Konnorsport team members. Body animation was driven via motion capture from Audiomotion and the facial performance was captured using Di4D.</p>
 
 <p class="justify">New technology was developed to be able to alter the performance of the Di4D facial capture. This became essential for Devon as the actor used during the shoot did not share Devon's likeness. This required us to come up with a system that would allow us to transfer the facial performance from one head to another. Di4D captured an array of FACS shapes, this data we had for both the actor and Devon's likeness. From this data we generated corrective blend shapes that were automatically triggered ensuring the essence of Devon was preserved.</p>
 
